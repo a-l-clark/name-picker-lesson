@@ -1,5 +1,5 @@
 # name-picker-lesson
-Created with CodeSandbox
+Created with CodeSandbox. Written with React
 
 Lesson from: https://egghead.io/courses/build-a-name-picker-app-intro-to-react-hooks-context-api-1ded
 
